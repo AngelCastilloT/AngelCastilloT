@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hola , Soy Ángel Castillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science"></a>
+</p>
 
-<!--
-**AngelCastilloT/AngelCastilloT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Acerca de mi 😃</h2>
+<p align="left">
+🎓 Analista en Computacion Científica - USACH
 
-Here are some ideas to get you started:
+💻 Desarrollador Junior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto: **castillotorresangel@gmail.com**
+  </p>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,html,css,js,react,mysql,postgresql,git,github,spring,maven,vscode,linux,windows" />
+  </a>
+</p>
+<br>
