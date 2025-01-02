@@ -5,7 +5,7 @@
 
 <h2>Acerca de mi 😃</h2>
 <p align="left">
-🎓 Analista en Computacion Científica - USACH
+🎓 Analista en Computación Científica - USACH
 
 💻 Desarrollador Junior
 
